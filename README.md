@@ -34,8 +34,11 @@
 * Modelo Arquitetural empregando o GoogleDocs (Apresentação)
 
 ### 16/09/2019
+* Finalização da Tabela GERSE caracterizando o projeto
 
 ### 23/09/2019
+* Escrita dos Resumos dos projetos da turma
+* Revisão dos esforços de prototipação
 
 ### 30/09/2019
 * Revisão dos resumos de todos os projetos da turma
