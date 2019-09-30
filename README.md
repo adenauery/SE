@@ -33,6 +33,11 @@
 * [Draw.io - Diagramas UML (portanto Sequência também) em modo gráfico](https://www.draw.io/)
 * Modelo Arquitetural empregando o GoogleDocs (Apresentação)
 
+### 30/09/2019
+* Revisão dos resumos de todos os projetos da turma
+* Inicio da construção dos Diagramas de Sequência do UML referentes aos projetos
+  * Considerar o uso das ferramentas: 
+
 ## Links Relativos à Disciplina:
 
 * [Disciplina "Sistemas Embarcados" na UFPEL](https://institucional.ufpel.edu.br/disciplinas/cod/1110070)
