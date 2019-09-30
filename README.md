@@ -33,6 +33,10 @@
 * [Draw.io - Diagramas UML (portanto Sequência também) em modo gráfico](https://www.draw.io/)
 * Modelo Arquitetural empregando o GoogleDocs (Apresentação)
 
+### 16/09/2019
+
+### 23/09/2019
+
 ### 30/09/2019
 * Revisão dos resumos de todos os projetos da turma
 * Iniciar a construção dos Diagramas de Sequência do UML referentes aos projetos
