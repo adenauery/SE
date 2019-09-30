@@ -56,7 +56,18 @@
   * https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git/
 * Livro sobre o Git
   * [Pro Git book, Scott Chacon and Ben Straub](https://git-scm.com/book/pt-br/v2)
-
+* Resetando a ESP32
+  ```
+  import sys
+  import machine
+  import network
+  sys.exit()
+  machine.reset()
+  sta_if = network.WLAN(network.STA_IF)
+  sta_if.active(False)
+  ap_if = network.WLAN(network.AP_IF)
+  ap_if.active(False)
+```
 
 ## Projetos da Turma
 
