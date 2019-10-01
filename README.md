@@ -43,7 +43,7 @@
 ### 30/09/2019
 * Revisão dos Resumos de todos os projetos da turma
 * Iniciar a construção dos Diagramas de Sequência do UML referentes aos projetos
-  * Considerar o uso das ferramentas: [Quick Sequence Diagram Editor](https://sourceforge.net/projects/sdedit/) e [Graphiz](http://www.graphviz.org/)
+  * Considerar o uso das ferramentas: [Quick Sequence Diagram Editor](https://sourceforge.net/projects/sdedit/) e [PlantUML](http://plantuml.com/sequence-diagram)
 
 ## Links Relativos à Disciplina:
 
