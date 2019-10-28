@@ -44,6 +44,31 @@
 * Revisão dos Resumos de todos os projetos da turma
 * Iniciar a construção dos Diagramas de Sequência do UML referentes aos projetos
   * Considerar o uso das ferramentas: [Quick Sequence Diagram Editor](https://sourceforge.net/projects/sdedit/) e [PlantUML](http://plantuml.com/sequence-diagram)
+  
+### 07/10/2019
+ * Revisão dos procedimentos de implementação referentes ao protótipo em desenvolvimento
+ * Revisão da construção dos Diagramas de Sequencia em UML dos projetos
+ 
+### 14/10/2019
+ * Recesso Academico e Administrativo da UCPEL
+ 
+### 21/10/2019
+ * Ajustes nas metas mecânicas & eletrônicas dos projetos, considerando sua viabilidade no semestre em andamento
+ 
+### 28/10/2019
+ * Cronograma de Atividades até o final do semestre
+   * 02/12 - Demonstração prática do projeto
+   * 09/12 - Apresentação do Projeto, e entrega do Relatório Final
+ * Composição do Relatório Final
+   * Capa: com título e indicação do autor
+   * Resumo: que traduza os aspectos mais importantes
+   * 1. Introdução: compreendendo a motivação, objetivo geral e objetivos específicos
+   * 2. Tabela Gerse do Projeto
+   * 3. Descrição do Hardware utilizado: podem ser utilizadas fotos, etc.
+   * 4. Descrição do Software: empregando diagramas UML combinados com trechos de texto
+   * 5. Operação do Projeto: caracterização de como o Projeto acontece, com registro das diferentes operações e as respectivas interfaces tanto de hardware como de software
+   * 6. Considerações finais
+   * Referências bibliográficas
 
 ## Links Relativos à Disciplina:
 
