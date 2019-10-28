@@ -56,10 +56,11 @@
  * Ajustes nas metas mecânicas & eletrônicas dos projetos, considerando sua viabilidade no semestre em andamento
  
 ### 28/10/2019
- * Cronograma de Atividades até o final do semestre
+ * **Cronograma de Atividades até o final do semestre
    * 02/12 - Demonstração prática do Projeto
    * 09/12 - Apresentação do Projeto, e entrega do Relatório Final
- * Composição do Relatório Final
+ 
+ * **Composição do Relatório Final
    * Capa: com título e indicação do autor
    * Resumo: que traduza os aspectos mais importantes
    * [1] Introdução: compreendendo a motivação, objetivo geral e objetivos específicos
@@ -69,6 +70,10 @@
    * [5] Operação do Projeto: caracterização de como o Projeto acontece, com registro das diferentes operações e as respectivas interfaces tanto de hardware como de software
    * [6] Considerações finais
    * Referências bibliográficas
+   
+ * **Modelo de Relatório
+   * O colega Victor Hugo Lima organizou um modelo de Relatório Final. Vide abaixo:
+   * [Link somente leitura no Overleaf](https://www.overleaf.com/read/frqrqpvnntdy)
 
 ## Links Relativos à Disciplina:
 
