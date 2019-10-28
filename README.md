@@ -57,7 +57,7 @@
  
 ### 28/10/2019
  * Cronograma de Atividades até o final do semestre
-   * 02/12 - Demonstração prática do projeto
+   * 02/12 - Demonstração prática do Projeto
    * 09/12 - Apresentação do Projeto, e entrega do Relatório Final
  * Composição do Relatório Final
    * Capa: com título e indicação do autor
