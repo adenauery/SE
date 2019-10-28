@@ -62,12 +62,12 @@
  * Composição do Relatório Final
    * Capa: com título e indicação do autor
    * Resumo: que traduza os aspectos mais importantes
-   * [1.] Introdução: compreendendo a motivação, objetivo geral e objetivos específicos
-   * [2.] Tabela Gerse do Projeto
-   * [3.] Descrição do Hardware utilizado: podem ser utilizadas fotos, etc.
-   * [4.] Descrição do Software: empregando diagramas UML combinados com trechos de texto
-   * [5.] Operação do Projeto: caracterização de como o Projeto acontece, com registro das diferentes operações e as respectivas interfaces tanto de hardware como de software
-   * [6.] Considerações finais
+   * [1] Introdução: compreendendo a motivação, objetivo geral e objetivos específicos
+   * [2] Tabela Gerse do Projeto
+   * [3] Descrição do Hardware utilizado: podem ser utilizadas fotos, etc.
+   * [4] Descrição do Software: empregando diagramas UML combinados com trechos de texto. Também podem ser utilizados fluxogramas para descrição dos softwares
+   * [5] Operação do Projeto: caracterização de como o Projeto acontece, com registro das diferentes operações e as respectivas interfaces tanto de hardware como de software
+   * [6] Considerações finais
    * Referências bibliográficas
 
 ## Links Relativos à Disciplina:
