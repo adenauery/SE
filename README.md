@@ -1,7 +1,7 @@
 
 # Sistemas Embarcados
 
-### 03/08/2020
+### 27/07/2020
 * Introdução à disciplina
   * Definição Embarcado a ser utilizado: ESP32
   * Atividades Iniciais de Programação com [MicroPython](http://olaria.ucpel.edu.br/micropython/)
