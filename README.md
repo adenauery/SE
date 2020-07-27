@@ -3,7 +3,8 @@
 
 ### 03/08/2020
 * Introdução à disciplina
-  * Indentificação dos embarcados de posse da turma
+  * Definição Embarcado a ser utilizado: ESP32
+  * Atividades Iniciais de Programação com [MicroPython](http://olaria.ucpel.edu.br/micropython/)
   * Temas de interesse em pesquisa
 * Discussão do artigo: [Elicitação e Especificação de Requisitos em Sistemas Embarcados: Uma Revisão Sistemática](https://pdfs.semanticscholar.org/59d1/09b7dce30ef4727279a8d32810c94278a115.pdf?_ga=2.56763946.1847345786.1595809313-1098268385.1595809313)
 
