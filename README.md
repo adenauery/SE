@@ -12,4 +12,3 @@
 * [Disciplina "Sistemas Embarcados" na UFPEL](https://institucional.ufpel.edu.br/disciplinas/cod/1110070)
 * [Robot Operating System](https://www.ros.org/)
 * https://www.embarcados.com.br/sistemas-embarcados-e-microcontroladores/
-* https://www.embarcados.com.br/icarus-iot-board/
