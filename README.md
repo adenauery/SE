@@ -29,7 +29,9 @@
 * [OTA para MicroPython](https://github.com/rdehuyss/micropython-ota-updater)
 
 ## Links Relativos à Disciplina:
-
+* [Brazilian Symposium on Computing Systems Engineering](https://sbesc.lisha.ufsc.br/)
+* https://www.embarcados.com.br/sistemas-embarcados-e-microcontroladores/
+* ---
 * [Disciplina "Sistemas Embarcados" na UFPEL](https://institucional.ufpel.edu.br/disciplinas/cod/1110070)
 * [Robot Operating System](https://www.ros.org/)
-* https://www.embarcados.com.br/sistemas-embarcados-e-microcontroladores/
+
