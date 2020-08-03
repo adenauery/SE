@@ -18,6 +18,16 @@
     * [Apresentação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=apresentacao-google-apps-script.pdf)
     * [Livro](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=livro-google-apps-script.pdf)
 
+### 03/08/2020
+* Avançar na discussão do esforço de especificação de requisitos em Sistemas Embarcados
+* [Metodologia de Desenvolvimento de Sistemas Embarcados](https://pt.slideshare.net/AlexandreAugustoGiron/metodologias-de-desenvolvimento-de-sistemas-embarcados)
+* Discussão do artigo: [TERASE: Template para Especificação de Requisitos de Ambiente em Sistemas Embarcados](http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER10/martins.pdf)
+
+#### Atividade Não Síncrona
+* Pesquisar sobre Atualização OTA (Over-The-Air)
+* [Atualização OTA na Wikipedia](https://pt.wikipedia.org/wiki/Over-the-air)
+* [OTA para MicroPython)(https://github.com/rdehuyss/micropython-ota-updater)
+
 ## Links Relativos à Disciplina:
 
 * [Disciplina "Sistemas Embarcados" na UFPEL](https://institucional.ufpel.edu.br/disciplinas/cod/1110070)
