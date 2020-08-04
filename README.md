@@ -34,4 +34,5 @@
 * [Disciplina "Sistemas Embarcados" na UFPEL](https://institucional.ufpel.edu.br/disciplinas/cod/1110070)
 * [Robot Operating System](https://www.ros.org/)
 * [IFTTT](https://ifttt.com)
+* [Mosquitto](http://test.mosquitto.org/)
 
