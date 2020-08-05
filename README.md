@@ -29,7 +29,7 @@
 * [OTA para MicroPython](https://github.com/rdehuyss/micropython-ota-updater)
 
 ## Links Relativos à Disciplina:
-* [IFTTT](https://ifttt.com) - **Contribuição de Lucas Penning
+* [IFTTT](https://ifttt.com) - **Contribuição de Lucas Penning**
 ---
 * [Brazilian Symposium on Computing Systems Engineering](https://sbesc.lisha.ufsc.br/)
 * https://www.embarcados.com.br/sistemas-embarcados-e-microcontroladores/
