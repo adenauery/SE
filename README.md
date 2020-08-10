@@ -44,6 +44,11 @@
 * [OTA para MicroPython](https://github.com/rdehuyss/micropython-ota-updater)
 
 ---
+### 10/08/2020
+* Discussão do artigo: [GERSE: Guia de Elicitação de Requisitos para Sistemas Embarcados](http://www.inf.puc-rio.br/wer/WERpapers/artigos/artigos_WER12/paper_3.pdf)
+* [Elicitação e Especificação de Requisitos para Sistemas Embarcados - Comparação TERASE & GERSE](https://www.cin.ufpe.br/~in1020/previous/2016.2/docs/works/inicial/Work_Reinaldo.pdf)
+* Definição dos projetos a serem desenvolvidos
+
 
 ## Links Relativos à Disciplina:
 * [IFTTT](https://ifttt.com) - Contribuição de **Lucas Penning**
