@@ -52,6 +52,7 @@
 
 #### Atividade Não Síncrona
 * Edição da Tabela Gerse no GitHub individual
+* [2WAC](https://sol.sbc.org.br/index.php/semish/article/view/6571)
 
 ---
 
