@@ -1,6 +1,17 @@
 
 # Sistemas Embarcados
 
+### Equipe
+|   |   |   |
+|---|--:|:--|
+| **Nome** |   |
+|Bruno Lopes Soares  | [Repositório]() |
+|Gustavo Ribeiro Iribarrem | [Repositório]() |
+|Kaller Moraes Gonçalves | [Repositório]() |
+|Lucas Kerstner Penning | [Repositório]() |
+|Wellington Weikamp Porto  | [Repositório]() |
+|   |   |   | |
+
 ### 27/07/2020
 * Introdução à disciplina
   * Definição Embarcado a ser utilizado: ESP32
