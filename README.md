@@ -43,9 +43,11 @@
 * [Atualização OTA na Wikipedia](https://pt.wikipedia.org/wiki/Over-the-air)
 * [OTA para MicroPython](https://github.com/rdehuyss/micropython-ota-updater)
 
+---
+
 ## Links Relativos à Disciplina:
 * [IFTTT](https://ifttt.com) - Contribuição de **Lucas Penning**
----
+
 * [Brazilian Symposium on Computing Systems Engineering](https://sbesc.lisha.ufsc.br/)
 * https://www.embarcados.com.br/sistemas-embarcados-e-microcontroladores/
 * [Disciplina "Sistemas Embarcados" na UFPEL](https://institucional.ufpel.edu.br/disciplinas/cod/1110070)
