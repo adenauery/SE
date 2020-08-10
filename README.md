@@ -50,6 +50,9 @@
 * [Elicitação e Especificação de Requisitos para Sistemas Embarcados - Comparação TERASE & GERSE](https://www.cin.ufpe.br/~in1020/previous/2016.2/docs/works/inicial/Work_Reinaldo.pdf)
 * Discussão sobre os projetos a serem desenvolvidos
 
+#### Atividade Não Síncrona
+* Edição da Tabela Gerse no GitHub individual
+
 ---
 
 ## Links Relativos à Disciplina:
