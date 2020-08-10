@@ -12,6 +12,8 @@
 |Wellington Weikamp Porto  | [Repositório]() |
 |   |   |   | |
 
+---
+
 ### 27/07/2020
 * Introdução à disciplina
   * Definição Embarcado a ser utilizado: ESP32
@@ -28,6 +30,8 @@
   * Google Apps Scripts.
     * [Apresentação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=apresentacao-google-apps-script.pdf)
     * [Livro](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=livro-google-apps-script.pdf)
+
+---
 
 ### 03/08/2020
 * Avançar na discussão do esforço de especificação de requisitos em Sistemas Embarcados
