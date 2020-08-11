@@ -22,7 +22,7 @@
   * [Capítulo de Livro Utilizado no Primeiro Encontro](https://meet.google.com/linkredirect?authuser=2&dest=https%3A%2F%2Fintegrada.minhabiblioteca.com.br%2F%23%2Fbooks%2F9788536520346%2Fpageid%2F21) - Disponível na Minha Biblioteca
 * Discussão do artigo: [Elicitação e Especificação de Requisitos em Sistemas Embarcados: Uma Revisão Sistemática](https://pdfs.semanticscholar.org/59d1/09b7dce30ef4727279a8d32810c94278a115.pdf?_ga=2.56763946.1847345786.1595809313-1098268385.1595809313)
 
-#### Atividade Não Síncrona
+#### Atividades Não Síncronas
   * Gravando Dados Coletados em uma Plataforma de Nuvem
     * Registro histórico dos dados: [Exemplo](https://fazerlab.wordpress.com/2017/10/24/dados-em-tempo-real-com-planilha-do-google-docs/) 
     * Visualizando os dados: [Exemplo](https://fazerlab.wordpress.com/2017/10/30/grafico-dinamico-com-google-script-e-planilha/)
@@ -38,7 +38,7 @@
 * [Metodologia de Desenvolvimento de Sistemas Embarcados](https://pt.slideshare.net/AlexandreAugustoGiron/metodologias-de-desenvolvimento-de-sistemas-embarcados)
 * Discussão do artigo: [TERASE: Template para Especificação de Requisitos de Ambiente em Sistemas Embarcados](http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER10/martins.pdf)
 
-#### Atividade Não Síncrona
+#### Atividades Não Síncronas
 * Pesquisar sobre Atualização OTA (Over-The-Air)
 * [Atualização OTA na Wikipedia](https://pt.wikipedia.org/wiki/Over-the-air)
 * [OTA para MicroPython](https://github.com/rdehuyss/micropython-ota-updater)
@@ -50,9 +50,9 @@
 * [Elicitação e Especificação de Requisitos para Sistemas Embarcados - Comparação TERASE & GERSE](https://www.cin.ufpe.br/~in1020/previous/2016.2/docs/works/inicial/Work_Reinaldo.pdf)
 * Discussão sobre os projetos a serem desenvolvidos
 
-#### Atividade Não Síncrona
+#### Atividades Não Síncronas
 * Edição da Tabela Gerse no GitHub individual
-* [2WAC](https://sol.sbc.org.br/index.php/semish/article/view/6571)
+* [2WAC: Uma Proposta para Gerenciamento de Irrigação Explorando Ciência de Situação na IoT](https://sol.sbc.org.br/index.php/semish/article/view/6571)
 * [Códigos Exemplo em MicroPython](http://olaria.ucpel.edu.br/micropython/doku.php?id=codigos)
 
 ---
