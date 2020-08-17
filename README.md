@@ -52,7 +52,7 @@
 
 #### Atividades Não Síncronas
 * Edição da Tabela Gerse no GitHub individual
-* [2WAC: Uma Proposta para Gerenciamento de Irrigação Explorando Ciência de Situação na IoT](https://sol.sbc.org.br/index.php/semish/article/view/6571)
+* [I2WAC: Uma Proposta para Gerenciamento de Irrigação Explorando Ciência de Situação na IoT](https://sol.sbc.org.br/index.php/semish/article/view/6571)
 * [Códigos Exemplo em MicroPython](http://olaria.ucpel.edu.br/micropython/doku.php?id=codigos)
 
 ---
