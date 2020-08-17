@@ -41,7 +41,7 @@
 #### Atividades Não Síncronas
 * Pesquisar sobre Atualização OTA (Over-The-Air)
 * [Atualização OTA na Wikipedia](https://pt.wikipedia.org/wiki/Over-the-air)
-* [OTA para MicroPython](https://github.com/rdehuyss/micropython-ota-updater)
+* [OTA para MicroPython](https://github.com/rdsmachado/ota_micropython)
 
 ---
 
