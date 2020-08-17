@@ -57,6 +57,24 @@
 
 ---
 
+### 17/08/2020
+
+**Kaller:** Configurar o acesso do embarcado a uma rede wi-fi, bem como a frequencia de piscagem de dois leds. Para confirmar que o embarcado está em rede deverá ser postada uma mensagem em um broker MQTT a cada 15 segundos.
+
+**Lucas:** implementar uma rotina de OTA em MicroPython que será disparada sempre que o embarcado reiniciar. A medida que for ocorrendo deverá ser feito um log das operações realizadas empregando um Broker MQTT. Criar uma rotina para piscar dois leds como insumo de software a ser atualizado.
+
+**Bruno:** criar um mecanismo de Cron e sua Crontab em MicroPython apenas para minutos e horas. Nos momentos agendados irá se postada uma mensagem via MQTT e também um led ser piscado. Vide sintaxe abaixo:
+* mm hh
+* 10  * será ativado a cada 10 minutos de todas as horas
+* 20  * será ativado a cada 20 minutos de todas as horas
+* 30 15 será ativado aos 30 minutos das 15 h
+
+**Wellington:** implementar uma rotina que grave e leia informações em uma nuvem. Dependendo do que for lido serão ligados ou não dois leds de forma independente, ao iniciar e termnar a rotina, deverão ser gravadas strings na nuvem que caracterizem o início e o término da mesma.
+
+**Gustavo**: conceber uma rotina de integração do embarcado com o Google Assistant. A partir de um comando de ligar e desligar uma rotina será ativada e/ou desativada.
+
+---
+
 ## Links Relativos à Disciplina:
 * [IFTTT](https://ifttt.com) - Contribuição de **Lucas Penning**
 
