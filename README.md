@@ -59,6 +59,11 @@
 
 ### 17/08/2020
 
+#### Projetos Individuais - Etapa 1
+
+* Entrega: código documentado com exemplos de operação.
+* Apresentação: explicar a "arquitetura do software" caracterizando a troca de informações entre as partes do códigos.
+
 **Kaller:** Configurar o acesso do embarcado a uma rede wi-fi, bem como a frequencia de piscagem de dois leds. Para confirmar que o embarcado está em rede deverá ser postada uma mensagem em um broker MQTT a cada 15 segundos.
 
 **Lucas:** implementar uma rotina de OTA em MicroPython que será disparada sempre que o embarcado reiniciar. A medida que for ocorrendo deverá ser feito um log das operações realizadas empregando um Broker MQTT. Criar uma rotina para piscar dois leds como insumo de software a ser atualizado.
