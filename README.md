@@ -63,6 +63,8 @@
 
 * Entrega: código documentado com exemplos de operação.
 * Apresentação: explicar a "arquitetura do software" caracterizando a troca de informações entre as partes do códigos.
+* Discussão do andamento: 24/08/2020
+* Finalização: 31/08/2020
 
 **Kaller:** Configurar o acesso do embarcado a uma rede wi-fi, bem como a frequencia de piscagem de dois leds. Para confirmar que o embarcado está em rede deverá ser postada uma mensagem em um broker MQTT a cada 15 segundos.
 
