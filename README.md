@@ -83,13 +83,23 @@
 ---
 
 ## Links Relativos à Disciplina:
-* [IFTTT](https://ifttt.com) - Contribuição de **Lucas Penning**
 
-* [Brazilian Symposium on Computing Systems Engineering](https://sbesc.lisha.ufsc.br/)
-* https://www.embarcados.com.br/sistemas-embarcados-e-microcontroladores/
-* [Disciplina "Sistemas Embarcados" na UFPEL](https://institucional.ufpel.edu.br/disciplinas/cod/1110070)
+#### Plataformas de Software:
+* [IFTTT](https://ifttt.com) - Contribuição de **Lucas Penning**
 * [Robot Operating System](https://www.ros.org/)
 * [Mosquitto](http://test.mosquitto.org/)
+
+#### Eventos envolvendo Embarcados:
+* [Brazilian Symposium on Computing Systems Engineering](https://sbesc.lisha.ufsc.br/)
+* https://www.embarcados.com.br/sistemas-embarcados-e-microcontroladores/
+
+#### Fabricação de Embarcados:
 * [easyEDA](https://easyeda.com/)
 * [PCBWay](https://www.pcbway.com)
 
+#### Materiais sobre a Linguagem Python:
+* [Guia de linguagem Python - DevMedia](https://www.devmedia.com.br/python/)
+* [Lendo Ocupação de CPU e Memória em Python](https://www.it-swarm.dev/pt/python/como-obter-cpu-atual-e-ram-uso-em-python/958548632/)
+
+#### Sistemas Embarcados em outras Instituições:
+* [Disciplina "Sistemas Embarcados" na UFPEL](https://institucional.ufpel.edu.br/disciplinas/cod/1110070)
