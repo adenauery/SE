@@ -83,7 +83,8 @@
 ---
 
 ### 24/08/2020
-* [Diagrama de Sequencia Gerado a Partir de Texto](https://sourceforge.net/projects/sdedit/)
+* [Diagramas de Sequencia Gerados a Partir de Texto](https://sourceforge.net/projects/sdedit/)
+* [Editor on-line de Diagramas de Sequencia](https://online.visual-paradigm.com/pt/diagrams/solutions/free-sequence-diagram-editor-online/)
 
 ---
 
