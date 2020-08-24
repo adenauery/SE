@@ -80,6 +80,8 @@
 
 **Gustavo**: conceber uma rotina de integração do embarcado com o Google Assistant. A partir de um comando de ligar e desligar uma rotina será ativada e/ou desativada.
 
+---
+
 ### 24/08/2020
 * [Diagrama de Sequencia Gerado a Partir de Texto](https://sourceforge.net/projects/sdedit/)
 
