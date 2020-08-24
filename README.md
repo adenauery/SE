@@ -70,11 +70,11 @@
 
 **Lucas:** implementar uma rotina de OTA em MicroPython que será disparada sempre que o embarcado reiniciar. A medida que for ocorrendo deverá ser feito um log das operações realizadas empregando um Broker MQTT. Criar uma rotina para piscar dois leds como insumo de software a ser atualizado.
 
-**Bruno:** criar um mecanismo de Cron e sua Crontab em MicroPython apenas para minutos e horas. Nos momentos agendados irá se postada uma mensagem via MQTT e também um led ser piscado. Vide sintaxe abaixo:
-* mm hh
-* 10  * será ativado a cada 10 minutos de todas as horas
-* 20  * será ativado a cada 20 minutos de todas as horas
-* 30 15 será ativado aos 30 minutos das 15 h
+**Bruno:** criar um mecanismo simular ao Cron e sua Crontab em MicroPython apenas para minutos. Nos momentos agendados irá ser postada uma mensagem via MQTT e também um led será piscado. Vide sintaxe abaixo:
+* mm 
+* 10 será ativado aos 10 minutos de todas as horas
+* 25 será ativado aos 25 minutos de todas as horas
+* 33 será ativado aos 33 minutos de todas as horas
 
 **Wellington:** implementar uma rotina que grave e leia informações em uma nuvem. Dependendo do que for lido serão ligados ou não dois leds de forma independente, ao iniciar e termnar a rotina, deverão ser gravadas strings na nuvem que caracterizem o início e o término da mesma.
 
