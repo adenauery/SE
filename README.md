@@ -113,3 +113,6 @@
 #### Broker MQTT
 * [Brokers MQTT gratuitos e pagos para utilizar em projetos da IoT](https://diyprojects.io/8-online-mqtt-brokers-iot-connected-objects-cloud/#.XzfHmEl7nUI)
 * [IoTicos](https://ioticos.org/mqtt/login)
+
+#### Cron & MicroPython
+* [Simple CRON for MicroPython](https://fizista.github.io/micropython-scron/html/index.html)
