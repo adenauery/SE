@@ -66,7 +66,7 @@
 * Discussão do andamento: 24/08/2020
 * Finalização: 31/08/2020
 
-**Kaller:** Configurar o acesso do embarcado a uma rede wi-fi, bem como a frequencia de piscagem de dois leds. Para confirmar que o embarcado está em rede deverá ser postada uma mensagem em um broker MQTT a cada 15 segundos.
+**Kaller:** Configurar o acesso do embarcado a uma rede wi-fi, bem como a frequencia de piscagem de dois leds. Para confirmar que o embarcado está em rede deverá ser postada uma mensagem em um broker MQTT a cada 15 segundos. Sempre que o embarcado rebootar ele vai pedir os dados de configuração.
 
 **Lucas:** implementar uma rotina de OTA em MicroPython que será disparada sempre que o embarcado reiniciar. A medida que for ocorrendo deverá ser feito um log das operações realizadas empregando um Broker MQTT. Criar uma rotina para piscar dois leds como insumo de software a ser atualizado.
 
