@@ -121,3 +121,6 @@
 * [Sphinx](https://www.sphinx-doc.org/en/master/) - [Exemplo](http://docs.micropython.org/en/latest/) (Documentação Micropython)
 * [Markdown](https://guides.github.com/features/mastering-markdown/) - Utilizado no GitHub
 
+#### Ferramentas de Produtividade
+* [Trello](https://trello.com/)
+* [Notion](https://www.notion.so/)
