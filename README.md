@@ -96,7 +96,7 @@
 
 **Primeira Atividade Avaliativa**
 
-**Objetivo:** cada aluno irá estudar uma das tecnologias atuais para Internet das Coisas, caracterizando as motivações e objetivos para sua criação, seus princípios operacionais, bem como as situações em que acontece o seu emprego na IoT 
+**Objetivo:** cada aluno irá estudar um dos protocolos atuais para Internet das Coisas, caracterizando as motivações e objetivos para sua criação, seus princípios operacionais, bem como as situações em que acontece o seu emprego na IoT 
 
 **Resultado:** deverá ser elaborada uma apresentação com duração de no máximo 10 minutos 
 
