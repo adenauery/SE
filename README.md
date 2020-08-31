@@ -9,7 +9,7 @@
 |Gustavo Ribeiro Iribarrem | Repositório |
 |Kaller Moraes Gonçalves | [Repositório](https://github.com/KallerMG/esp_32) |
 |Lucas Kerstner Penning | [Repositório](https://github.com/lucaspenning/sistemas_embarcados) |
-|Wellington Weikamp Porto  | [Repositório 1](https://github.com/wellkamp/teste_ota) [Repositório 2](https://github.com/wellkamp/sistemas_embarcados)|
+|Wellington Weikamp Porto  |  [Repositório](https://github.com/wellkamp/sistemas_embarcados)|
 |   |   |   | |
 
 ---
