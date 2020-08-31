@@ -118,5 +118,5 @@
 * [Simple CRON for MicroPython](https://fizista.github.io/micropython-scron/html/index.html)
 
 #### Criando Documentações
-* [Sphinx](https://www.sphinx-doc.org/en/master/) - [Exemplo](http://docs.micropython.org/en/latest/) Site Micropython
+* [Sphinx](https://www.sphinx-doc.org/en/master/) - [Exemplo](http://docs.micropython.org/en/latest/) (Documentação Micropython)
 
