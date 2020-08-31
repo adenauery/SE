@@ -88,6 +88,26 @@
 
 ---
 
+### 31/08/2020
+
+* **Protolocos:**
+    * A Organização Internacional de Normalização [ISO](https://pt.wikipedia.org/wiki/Organiza%C3%A7%C3%A3o_Internacional_de_Normaliza%C3%A7%C3%A3o) propôs o Modelo [OSI](https://pt.wikipedia.org/wiki/Modelo_OSI) 
+    * [Apresentação Prof. Ronaldo Ramos](https://pt.slideshare.net/JanielesAraujo/protocolos-48853754)
+
+**Primeira Atividade Avaliativa**
+
+**Objetivo:** cada aluno irá estudar uma das tecnologias atuais para Internet das Coisas, caracterizando as motivações e objetivos para sua criação, seus princípios operacionais, bem como as situações em que acontece o seu emprego na IoT 
+
+**Resultado:** deverá ser elaborada uma apresentação com duração de no máximo 10 minutos 
+
+**Data apresentação:** 07/09/2020
+
+* Bruno Lopes Soares	- COAP
+* Gustavo Ribeiro Iribarrem	- REST & RESTfull
+* Kaller Moraes Gonçalves	- LoRaWAN
+* Lucas Kerstner Penning	- XMPP-IoT
+* Wellington Weikamp Porto - SIGFOX
+
 ## Links Relativos à Disciplina:
 
 #### Plataformas de Software:
