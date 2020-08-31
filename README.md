@@ -9,7 +9,7 @@
 |Gustavo Ribeiro Iribarrem | Repositório |
 |Kaller Moraes Gonçalves | [Repositório](https://github.com/KallerMG/esp_32) |
 |Lucas Kerstner Penning | [Repositório](https://github.com/lucaspenning/sistemas_embarcados) |
-|Wellington Weikamp Porto  | [Repositório](https://github.com/wellkamp/teste_ota) |
+|Wellington Weikamp Porto  | [Repositório 1](https://github.com/wellkamp/teste_ota) [Repositório 2](https://github.com/wellkamp/sistemas_embarcados)|
 |   |   |   | |
 
 ---
@@ -119,4 +119,5 @@
 
 #### Criando Documentações
 * [Sphinx](https://www.sphinx-doc.org/en/master/) - [Exemplo](http://docs.micropython.org/en/latest/) (Documentação Micropython)
+* [ (https://guides.github.com/features/mastering-markdown/)
 
