@@ -108,6 +108,9 @@
 * Lucas Kerstner Penning	- XMPP-IoT
 * Wellington Weikamp Porto - SIGFOX
 
+### 07/09/2020
+* Feriado do Dia da Independência
+
 ## Links Relativos à Disciplina:
 
 #### Plataformas de Software:
