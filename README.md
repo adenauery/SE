@@ -111,6 +111,10 @@
 ### 07/09/2020
 * Feriado do Dia da Independência
 
+### 14/09/2020
+* Apresentação de Trabalhos
+* [To Pull or Push IoT Data? That is the Question](https://www.sevone.com/news/blog/to-pull-or-push-iot-data-that-is-the-question/)
+
 ## Links Relativos à Disciplina:
 
 #### Plataformas de Software:
