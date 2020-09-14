@@ -7,7 +7,7 @@
 | **Nome** |   |
 |Bruno Lopes Soares  | Repositório |
 |Gustavo Ribeiro Iribarrem | Repositório |
-|Kaller Moraes Gonçalves | [Repositório](https://github.com/KallerMG/esp_32) |
+|Kaller Moraes Gonçalves | [Repositório](https://github.com/KallerMG/SE-esp32) |
 |Lucas Kerstner Penning | [Repositório](https://github.com/lucaspenning/sistemas_embarcados) |
 |Wellington Weikamp Porto  |  [Repositório](https://github.com/wellkamp/sistemas_embarcados)|
 |   |   |   | |
