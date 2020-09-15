@@ -5,7 +5,7 @@
 |   |   |   |
 |---|--:|:--|
 | **Nome** |   |
-|Bruno Lopes Soares  | [Repositório](https://github.com/PoderosoBR/esp32) |
+|Bruno Lopes Soares  | [Repositório](https://github.com/PoderosoBR/Esp32-MQTT) |
 |Gustavo Ribeiro Iribarrem | Repositório |
 |Kaller Moraes Gonçalves | [Repositório](https://github.com/KallerMG/SE-esp32) |
 |Lucas Kerstner Penning | [Repositório](https://github.com/lucaspenning/sistemas_embarcados) |
