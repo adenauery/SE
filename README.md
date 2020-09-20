@@ -137,10 +137,14 @@
 #### Sistemas Embarcados em outras Instituições:
 * [Disciplina "Sistemas Embarcados" na UFPEL](https://institucional.ufpel.edu.br/disciplinas/cod/1110070)
 
-#### Brokers MQTT
-* [Brokers MQTT gratuitos e pagos para utilizar em projetos da IoT](https://diyprojects.io/8-online-mqtt-brokers-iot-connected-objects-cloud/#.XzfHmEl7nUI)
-* [IoTicos](https://ioticos.org/mqtt/login)
-* [DIoTY](http://www.dioty.co/)
+#### Protocolo MQTT
+* Brokers:
+  * [Brokers MQTT gratuitos e pagos para utilizar em projetos da IoT](https://diyprojects.io/8-online-mqtt-brokers-iot-connected-objects-cloud/#.XzfHmEl7nUI)
+  * [IoTicos](https://ioticos.org/mqtt/login)
+  * [DIoTY](http://www.dioty.co/)
+* Dicas de Utilização:
+  * [Material da Kasetsart University](https://www.cpe.ku.ac.th/~cpj/219335/slides/04-remote.pdf)
+
 
 #### Cron & MicroPython
 * [Simple CRON for MicroPython](https://fizista.github.io/micropython-scron/html/index.html)
