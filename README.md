@@ -17,7 +17,7 @@
 ### Apresentações
 |   |   |   |
 |---|:--|:--|
-| **Nome** | Primeira Atividade  | Segunda Atividade | 
+| **Nome** | 1a Atividade  | 2a Atividade | 
 |Bruno Lopes Soares  | 14/09  |  | 
 |Gustavo Ribeiro Iribarrem |  |  |
 |Kaller Moraes Gonçalves | 14/09 |  |
