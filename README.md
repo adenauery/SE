@@ -177,3 +177,6 @@
 
 #### Ferramentas de Desenvolvimento
 * [Ferramentas Desenvolvimento](https://totalcross.com)
+
+### Diagramas de Apoio
+* [Diagramas SE 2020](https://docs.google.com/presentation/d/1nzW87X-IIwwtUQdFPp_Pf1JqQ-x70nObhFrLf_DWIzs/)
