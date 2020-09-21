@@ -144,7 +144,8 @@
   * [DIoTY](http://www.dioty.co/)
 * Dicas de Utilização:
   * [Material da Kasetsart University](https://www.cpe.ku.ac.th/~cpj/219335/slides/04-remote.pdf)
-
+* MQTT no MicroPython:
+  * [Robust UMQTT2](https://pypi.org/project/micropython-umqtt.robust2/)
 
 #### Cron & MicroPython
 * [Simple CRON for MicroPython](https://fizista.github.io/micropython-scron/html/index.html)
