@@ -123,8 +123,13 @@
 * Feriado do Dia da Independência
 
 ### 14/09/2020
-* Apresentação de Trabalhos
+* Apresentação dos Protocolos Estudados pela Turma
+
+
+### 21/09/2020
 * [To Pull or Push IoT Data? That is the Question](https://www.sevone.com/news/blog/to-pull-or-push-iot-data-that-is-the-question/)
+* Apresentação do Estado Atual dos Projetos pela Turma
+
 
 ## Links Relativos à Disciplina:
 
