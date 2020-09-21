@@ -18,11 +18,11 @@
 |   |   |   |
 |---|--:|:--|
 | **Nome** | Primeira Atividade  | Segunda Atividade | 
-|Bruno Lopes Soares  |  |  | 
+|Bruno Lopes Soares  | 14/09  |  | 
 |Gustavo Ribeiro Iribarrem |  |  |
-|Kaller Moraes Gonçalves |  |  |
-|Lucas Kerstner Penning |  |  |
-|Wellington Weikamp Porto  |  |  |
+|Kaller Moraes Gonçalves | 14/09 |  |
+|Lucas Kerstner Penning | 14/09 |  |
+|Wellington Weikamp Porto  | 14/09 |  |
 |   |   |   |
 
 ### 27/07/2020
