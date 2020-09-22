@@ -180,3 +180,6 @@
 
 ### Diagramas de Apoio
 * [Diagramas SE 2020](https://docs.google.com/presentation/d/1nzW87X-IIwwtUQdFPp_Pf1JqQ-x70nObhFrLf_DWIzs/)
+
+### Exemplos de Projetos
+* [Osciloscópio](http://olaria.ucpel.edu.br/scfu-2020/lib/exe/fetch.php?media=208277.pdf)
