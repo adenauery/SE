@@ -133,13 +133,13 @@
 ### 28/09/2020
 
 * Para o dia 12/10/2020 Definir os requisitos do Projeto a ser desenvolvido (no mínimo):
- * Nome (Name)
- * Objetivo (Purpose)
- * Entradas (Inputs)
- * Saídas (Outputs)
- * Funcionalidades (Functions)
- * Desempenho (Performance) - caso necessário
- * Potência (Power) - se for operar a bateria
+  * Nome (Name)
+  * Objetivo (Purpose)
+  * Entradas (Inputs)
+  * Saídas (Outputs)
+  * Funcionalidades (Functions)
+  * Desempenho (Performance) - caso necessário
+  * Potência (Power) - se for operar a bateria
 
 ## Links Relativos à Disciplina:
 
