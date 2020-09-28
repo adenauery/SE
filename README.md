@@ -141,8 +141,11 @@
   * Desempenho (Performance) - caso necessário
   * Potência (Power) - se for operar a bateria
 
-* Livro de Referência:
+* Livro Associado:
   * [Computer as Components: Principles of Embedded Computing System Design](https://drive.google.com/file/d/1sx-Y6PzzWr_uAaCD6OOhpvpmcDiXdor1/)
+
+* Slides:
+  * [Metodologia de Desenvolvimento de Sistemas Embarcados](https://pt.slideshare.net/AlexandreAugustoGiron/metodologias-de-desenvolvimento-de-sistemas-embarcados)
 
 ## Links Relativos à Disciplina:
 
