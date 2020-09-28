@@ -130,6 +130,16 @@
 * [To Pull or Push IoT Data? That is the Question](https://www.sevone.com/news/blog/to-pull-or-push-iot-data-that-is-the-question/)
 * Apresentação do Estado Atual dos Projetos pela Turma
 
+### 28/09/2020
+
+* Para o dia 12/10/2020 Definir os requisitos do Projeto a ser desenvolvido (no mínimo):
+ * Nome (Name)
+ * Objetivo (Purpose)
+ * Entradas (Inputs)
+ * Saídas (Outputs)
+ * Funcionalidades (Functions)
+ * Desempenho (Performance) - caso necessário
+ * Potência (Power) - se for operar a bateria
 
 ## Links Relativos à Disciplina:
 
