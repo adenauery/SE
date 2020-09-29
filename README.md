@@ -132,7 +132,7 @@
 
 ### 28/09/2020
 
-* Para o dia 12/10/2020 Definir os requisitos do Projeto a ser desenvolvido (no mínimo):
+* Para o dia 19/10/2020 Definir os requisitos do Projeto a ser desenvolvido (no mínimo):
   * **Utilizar o Wiki do Repositório para as especificações.**
   * Nome (Name)
   * Objetivo (Purpose)
