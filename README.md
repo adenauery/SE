@@ -152,6 +152,15 @@
 
 * Revisando os Projetos da Turma:
   * [30+ MicroPython Projects, Tutorials and Guides with ESP32/ESP8266](https://randomnerdtutorials.com/projects-esp32-esp8266-micropython/)
+  
+* Projetos:
+  * **Bruno:** Aplicação Web (PHP + HTML + CSS) <--> ESP32
+    * Finalidade: 
+        * Aplicação Web vai exibir valores sensoriados pelo Embarcado (último valor, lista de valores, gráfico)
+        * Aplicação Web vai enviar para o Embarcado a frequência de leitura dos sensores envolvidos
+        * ESP32 vai fazer o sensoriamento, gravar a frequencia de leitura dos sensores nos sistema de arquivos, e enviar para a Aplicação Web os valores lidos
+        * Empregar MQTT para as comunicações
+        * Empregar NTP (Network Time Protocol) no Embarcado
 
 ## Links Relativos à Disciplina:
 
