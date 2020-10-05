@@ -147,6 +147,11 @@
 
 * Slides:
   * [Metodologia de Desenvolvimento de Sistemas Embarcados](https://pt.slideshare.net/AlexandreAugustoGiron/metodologias-de-desenvolvimento-de-sistemas-embarcados)
+  
+### 05/10/2020
+
+* Revisando os Projetos da Turma:
+  * [30+ MicroPython Projects, Tutorials and Guides with ESP32/ESP8266](https://randomnerdtutorials.com/projects-esp32-esp8266-micropython/)
 
 ## Links Relativos à Disciplina:
 
