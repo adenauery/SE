@@ -154,13 +154,46 @@
   * [30+ MicroPython Projects, Tutorials and Guides with ESP32/ESP8266](https://randomnerdtutorials.com/projects-esp32-esp8266-micropython/)
   
 * Projetos:
-  * **Bruno:** Aplicação Web (PHP + HTML + CSS) <--> ESP32
-    * Finalidade: 
+  * **Bruno: Sensoriamento Programável** 
+    * Aplicação Web (PHP + HTML + CSS) <--> Embarcado 
         * Aplicação Web vai exibir valores sensoriados pelo Embarcado (último valor, lista de valores, gráfico)
         * Aplicação Web vai enviar para o Embarcado a frequência de leitura dos sensores envolvidos
         * ESP32 vai fazer o sensoriamento, gravar a frequencia de leitura dos sensores nos sistema de arquivos, e enviar para a Aplicação Web os valores lidos
         * Empregar MQTT para as comunicações
         * Empregar NTP (Network Time Protocol) no Embarcado
+
+  * **Kaller: Sistema Inteligente de Irrigação**
+    * Aplicação Console em Python <--> Embarcado
+       * Aplicação Console especifica os horários para irrigação
+       * Aplicação Console especifica o período para avaliação da irrigação (para avaliação serão utilizados sensores de umidade e temperatura)
+       * A cada período de tempo especificado pela aplicação é avaliada pelo embarcado a necesidade de irrigação e o usuário é alertado
+       * A Aplicação Console a qualquer momento pode comandar o início da irrigação
+       * A Aplicação Console a qualquer momento pode comandar a finalização da irrigação
+       * O embarcado pode considerar a previsão de chuva nas próximas horas
+       * Empregar MQTT para as comunicações
+       * Empregar NTP (Network Time Protocol) no Embarcado
+ 
+  * **Lucas: Gerenciamento de Embarcados com Recurso de OTA**
+    * Interface baseada em Bot Telegram <--> Embarcado
+      * Verficação de aspectos operacionais: uptime, versão de software, sensores instalados, horário
+      * Especificação de parâmetros de OTA: período de verificação de atualizações
+      * Comandos de OTA: atualizar imediatamente, atualizar imediatamente na versão X.XX
+      * Comandos gerais: reiniciar, executar determinado procedimento
+      * Envio períodico de informações do Embarcado via Bot
+      
+  * **Gustavo: 
+  
+  * **Wellington: IoT Cloud**
+    * API que irá permitir o embarcado criar e postar e deletar informações sensoriadas
+      * Funcionalidade para permitir ao embarcado criar entrada para um determinado sensor
+      * Funcionalidade para gravar as informações provenientes do embarcado
+      * Funcionalidade para exibir as informações já gravadas
+      * Aplicação Web para gerenciar o IoT Cloud
+      * Aplicação no embarcado para criar sensores e popular com valores o IoT Cloud
+      
+      
+   
+
 
 ## Links Relativos à Disciplina:
 
