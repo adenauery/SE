@@ -181,7 +181,7 @@
       * Comandos gerais: reiniciar, executar determinado procedimento
       * Envio períodico de informações do Embarcado via Bot
       
-  * **Gustavo: 
+  * **Gustavo: **
   
   * **Wellington: IoT Cloud**
     * API que irá permitir o embarcado criar e postar e deletar informações sensoriadas
