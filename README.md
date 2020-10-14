@@ -150,7 +150,7 @@
   
 ### 05/10/2020
 
-* Finalização da **Primeira Avaliação
+* Finalização da **Primeira Avaliação**
 
 * Revisando os Projetos da Turma:
   * [30+ MicroPython Projects, Tutorials and Guides with ESP32/ESP8266](https://randomnerdtutorials.com/projects-esp32-esp8266-micropython/)
