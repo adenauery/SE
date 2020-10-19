@@ -156,8 +156,8 @@
   * [30+ MicroPython Projects, Tutorials and Guides with ESP32/ESP8266](https://randomnerdtutorials.com/projects-esp32-esp8266-micropython/)
   
 * Projetos:
-  * **Bruno: Sensoriamento Programável** 
-    * Aplicação Web (PHP + HTML + CSS) <--> Embarcado 
+  * **Bruno: MultiSensoriamento Explorando a Integração de Embarcados com uma Nuvem Computacional** 
+    * Aplicação na Nuvem (PHP + HTML + CSS + MySQL) <--> [MQTT] <--> Embarcado (ESP32 + MicroPython)
         * Aplicação Web vai exibir valores sensoriados pelo Embarcado (último valor, lista de valores, gráfico)
         * Aplicação Web vai enviar para o Embarcado a frequência de leitura dos sensores envolvidos
         * ESP32 vai fazer o sensoriamento, gravar a frequencia de leitura dos sensores nos sistema de arquivos, e enviar para a Aplicação Web os valores lidos
