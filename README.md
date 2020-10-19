@@ -157,10 +157,12 @@
   
 * Projetos:
   * **Bruno: MultiSensoriamento Explorando a Integração de Embarcados com uma Nuvem Computacional** 
-    * Aplicação na Nuvem (PHP + HTML + CSS + MySQL) <--> [MQTT] <--> Embarcado (ESP32 + MicroPython)
-        * Aplicação Web vai exibir valores sensoriados pelo Embarcado (último valor, lista de valores, gráfico)
-        * Aplicação Web vai enviar para o Embarcado a frequência de leitura dos sensores envolvidos
-        * ESP32 vai fazer o sensoriamento, gravar a frequencia de leitura dos sensores nos sistema de arquivos, e enviar para a Aplicação Web os valores lidos
+    * Aplicação na Nuvem (PHP + HTML + CSS + MySQL) <--> [JSON + MQTT] <--> Embarcado (ESP32 + MicroPython)
+        * Aplicação na Nuvem vai exibir valores sensoriados pelo Embarcado: último valor, lista de valores, gráfico
+        * Aplicação na Nuvem vai configurar o Embarcado com frequência de leitura de cada um dos sensores envolvidos. Utilizar a sintaxe da Crontab para especificar o comportamento das leituras dos sensores
+        * O embarcado vai fazer o sensoriamento e enviar o valor lido para a Aplicação na Nuvem.
+        * O embarcado ao receber a configuração de leitura dos diferentes sensores da Aplicação em Nuvem irá gravar em um arquivo, persistindo a informação caso falte energia.
+        * Empregar JSON como padrão para troca de dados entre a Aplicação na Nuvem e o Embarcado
         * Empregar MQTT para as comunicações
         * Empregar NTP (Network Time Protocol) no Embarcado
 
@@ -200,9 +202,6 @@
 ### 19/10/2020
 
 Primeiro Momento de Discussão dos Projetos da Turma
-
-
-   
 
 
 ## Links Relativos à Disciplina:
