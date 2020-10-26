@@ -6,7 +6,7 @@
 |---|--:|:--|
 | **Nome** |   |  | 
 |Bruno Lopes Soares  | [Repositório](https://github.com/PoderosoBR/Esp32-MQTT) | [Projeto](https://github.com/PoderosoBR/Esp32-MQTT/wiki/Projeto-Esp32---Leitor-de-Dispositivos-para-Esp32) |
-|Gustavo Ribeiro Iribarrem | [Repositório](https://github.com/iribarrem/SE) |  |
+|Gustavo Ribeiro Iribarrem | [Repositório](https://github.com/iribarrem/SE) | [Projeto](https://github.com/iribarrem/SE/wiki) |
 |Kaller Moraes Gonçalves | [Repositório](https://github.com/KallerMG/SE-esp32) |   [Projeto](https://github.com/KallerMG/Iot_jardim/wiki) |
 |Lucas Kerstner Penning | [Repositório](https://github.com/lucaspenning/sistemas_embarcados) | [Projeto](https://github.com/lucaspenning/Telegram_OTA) |
 |Wellington Weikamp Porto  |  [Repositório](https://github.com/wellkamp/sistemas_embarcados)| [Projeto](https://github.com/wellkamp/iot_cloud_br/blob/main/README.md) |
