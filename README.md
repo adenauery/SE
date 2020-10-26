@@ -248,8 +248,12 @@ Primeiro Momento de Discussão dos Projetos da Turma
 * [Notion](https://www.notion.so/)
 * [Redmine](https://www.redmine.org)
 
+#### Ferramentas para Construção de Fluxogramas
+* [Draw.Io](http://draw.io)  - Contribuição de **Kaller Gonçalves**
+* Google Docs
+
 #### Ferramentas de Desenvolvimento
-* [Ferramentas Desenvolvimento](https://totalcross.com)
+* [TotalCross - GUI Generator](https://totalcross.com)
 
 ### Diagramas de Apoio
 * [Diagramas SE 2020](https://docs.google.com/presentation/d/1nzW87X-IIwwtUQdFPp_Pf1JqQ-x70nObhFrLf_DWIzs/)
