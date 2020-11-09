@@ -224,8 +224,21 @@ Feriado de Finados
     
   * Visão Geral do Projeto
     * Figura com a arquitetura mostrando os "componentes" que formam o projeto
-    * Breve descrição dos componentes que formam a arquitetura. 
-        * Alguns destes componentes poderão tecnologias adotadas para o projeto, por exemplo, o Protocolo MQTT, o Banco de Dados XXXX, um determinado tipo de sensor e/ou atuador. Deste modo, quando não forem peças de software desenvolvidas para o Projeto, serão apropriações de tecnologias de hardware e software.
+    * Breve descrição dos componentes de hardware e software que formam a arquitetura. 
+      * Componentes de Hardware:
+        * o embarcado
+        * sensor 1
+        * sensor 2
+        * desktop
+        * ...
+      * Compnentes de Software
+        * MQTT
+        * HTML
+        * CSS
+        * GitHub
+        * Componente 1 desenvolvidos para o Projeto (desenvolvido pelo aluno)
+        * ...
+        * Componente n desenvolvidos para o Projeto (desenvolvido pelo aluno)
     
   * Descrição das Funcionalidades
     * Funcionalidade 1(Cada funcionalidade irá ter descritas as suas entradas e saídas, e como as mesmas são tratadas)
