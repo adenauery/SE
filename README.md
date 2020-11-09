@@ -214,6 +214,8 @@ Feriado de Finados
 
 ### 09/11/2020 ###
 
+#### Entrega do Relatório: 07/12/2020 ###
+
 #### Relatório: ####
 * Nome do Projeto
 
