@@ -241,10 +241,10 @@ Feriado de Finados
     
   * Funcionalidades do Projeto
     * Funcionalidade 1(Cada funcionalidade irá ter descritas as suas entradas e saídas, e como as mesmas são tratadas)
-    Funcionalidade 2
-    ...
-    Funcionalidade n
-    OBS. incluir um Fluxograma ou um Diagrama de Sequencia em UML, para cada funcionalidade ou grupo destas
+    * Funcionalidade 2
+    * ...
+    * Funcionalidade n
+    * OBS. incluir um Fluxograma ou um Diagrama de Sequencia em UML, para cada funcionalidade ou grupo destas
     
 #### Apresentação: ####
 
