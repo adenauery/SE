@@ -225,13 +225,14 @@ Feriado de Finados
     * Figura com a arquitetura mostrando os "componentes" que formam o projeto
     * Breve descrição dos componentes de hardware e software que formam a arquitetura. 
       * Componentes de Hardware:
-        * o embarcado
-        * sensor 1
-        * sensor 2
-        * desktop
+        * descrição do embarcado (com um link)
+        * descrição do sensor 1 (com link)
+        * descrição do sensor 2
+        * descrição do desktop (hardware e sistema operacional)
         * ...
       * Compnentes de Software
-        * MQTT
+        * descrição do protocolo MQTT (com link)
+        * Servidor Web (Apache)
         * HTML
         * CSS
         * GitHub
@@ -240,7 +241,7 @@ Feriado de Finados
         * Componente n desenvolvidos para o Projeto (desenvolvido pelo aluno)
     
   * Funcionalidades do Projeto
-    * Funcionalidade 1(Cada funcionalidade irá ter descritas as suas entradas e saídas, e como as mesmas são tratadas)
+    * Nome da Funcionalidade 1 e sua descrição (Cada funcionalidade irá ter descritas as suas entradas e saídas, e como as mesmas são tratadas)
     * Funcionalidade 2
     * ...
     * Funcionalidade n
