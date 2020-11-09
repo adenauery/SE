@@ -214,15 +214,14 @@ Feriado de Finados
 
 ### 09/11/2020 ###
 
-* Definição da Entrega do Trabalho Final:
-  * Relatório:
-  * Nome do Projeto
+#### Relatório: ####
+* Nome do Projeto
 
 * Introdução:
     * Motivação
     * Objetivos (objetivo geral e objetivos específicos)
     
-  * Visão Geral do Projeto
+* Composição do Projeto
     * Figura com a arquitetura mostrando os "componentes" que formam o projeto
     * Breve descrição dos componentes de hardware e software que formam a arquitetura. 
       * Componentes de Hardware:
@@ -240,14 +239,16 @@ Feriado de Finados
         * ...
         * Componente n desenvolvidos para o Projeto (desenvolvido pelo aluno)
     
-  * Descrição das Funcionalidades
+  * Funcionalidades do Projeto
     * Funcionalidade 1(Cada funcionalidade irá ter descritas as suas entradas e saídas, e como as mesmas são tratadas)
     Funcionalidade 2
     ...
     Funcionalidade n
     OBS. incluir um Fluxograma ou um Diagrama de Sequencia em UML, para cada funcionalidade ou grupo destas
     
-  * Apresentação:
+#### Apresentação: ####
+
+
 
 ## Links Relativos à Disciplina:
 
