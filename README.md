@@ -236,6 +236,7 @@ O Relatório pode ser feito no wiki do repositório do projeto ou em um editor d
         * ...
       * Compnentes de Software
         * descrição do protocolo MQTT (com link)
+        * descrição da estrutura de armazenamento das variáves utilizadas (Banco de Dados)
         * Servidor Web (Apache)
         * HTML
         * CSS
