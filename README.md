@@ -201,7 +201,7 @@
    
 ### 19/10/2020
 
-Primeiro Momento de Discussão dos Projetos da Turma
+* Primeiro Momento de Discussão dos Projetos da Turma
 
 
 ### 26/10/2020 ###
@@ -210,7 +210,7 @@ Primeiro Momento de Discussão dos Projetos da Turma
 
 ### 02/11/2020 ###
 
-Feriado de Finados
+* Feriado de Finados
 
 ### 09/11/2020 ###
 
@@ -251,11 +251,16 @@ O Relatório pode ser feito no wiki do repositório do projeto ou em um editor d
     * ...
     * Funcionalidade n
     * OBS. incluir um Fluxograma ou um Diagrama de Sequencia em UML, para cada funcionalidade ou grupo destas
-    
-#### Apresentação: ####
 
 ### 16/11/2020 ###
 * [Semana da Tecnologia em Saúde](http://olaria.ucpel.edu.br/sts2020)
+
+
+### 23/11/2020 ###
+* Entendendo Microserviços
+  * (https://microservices.io/)[Microservices.io]
+  * (https://www.redhat.com/pt-br/topics/microservices)[Microserviços pela RedHat]
+  * (https://blog.andrefaria.com/melhores-livros-sobre-microservices-microservicos)[Livros sobre Microserviços]
 
 ## Links Relativos à Disciplina:
 
