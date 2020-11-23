@@ -269,6 +269,9 @@ O Relatório pode ser feito no wiki do repositório do projeto ou em um editor d
 * [Robot Operating System](https://www.ros.org/)
 * [Mosquitto](http://test.mosquitto.org/)
 
+### Desenvolvendo Aplicações Móveis ###
+* [Flutter do Google](https://flutter.dev/)
+
 #### Eventos envolvendo Embarcados:
 * [Brazilian Symposium on Computing Systems Engineering](https://sbesc.lisha.ufsc.br/)
 * https://www.embarcados.com.br/sistemas-embarcados-e-microcontroladores/
