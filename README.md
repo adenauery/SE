@@ -254,7 +254,8 @@ O Relatório pode ser feito no wiki do repositório do projeto ou em um editor d
     
 #### Apresentação: ####
 
-
+### 16/11/2020 ###
+* [Semana da Tecnologia em Saúde](http://olaria.ucpel.edu.br/sts2020)
 
 ## Links Relativos à Disciplina:
 
