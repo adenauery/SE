@@ -140,7 +140,7 @@
   * Saídas (Outputs)
   * Funcionalidades (Functions)
   * Desempenho (Performance) - caso necessário
-  * Potência (Power) - se for operar a bateria
+  * Potência (Power) - obrigatório se for operar a bateria
 
 * Livro Associado:
   * Computer as Components: Principles of Embedded Computing System Design
