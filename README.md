@@ -258,9 +258,9 @@ O Relatório pode ser feito no wiki do repositório do projeto ou em um editor d
 
 ### 23/11/2020 ###
 * Entendendo Microserviços
-  * (https://microservices.io/)[Microservices.io]
-  * (https://www.redhat.com/pt-br/topics/microservices)[Microserviços pela RedHat]
-  * (https://blog.andrefaria.com/melhores-livros-sobre-microservices-microservicos)[Livros sobre Microserviços]
+  * [Microservices.io](https://microservices.io/)
+  * [Microserviços pela RedHat](https://www.redhat.com/pt-br/topics/microservices)
+  * [Livros sobre Microserviços](https://blog.andrefaria.com/melhores-livros-sobre-microservices-microservicos)
 
 ## Links Relativos à Disciplina:
 
