@@ -271,6 +271,7 @@ O Relatório pode ser feito no wiki do repositório do projeto ou em um editor d
 
 ### Desenvolvendo Aplicações Móveis ###
 * [Flutter do Google](https://flutter.dev/)
+* [React Native](https://reactnative.dev/)
 
 #### Eventos envolvendo Embarcados:
 * [Brazilian Symposium on Computing Systems Engineering](https://sbesc.lisha.ufsc.br/)
