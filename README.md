@@ -214,11 +214,11 @@
 
 ### 09/11/2020 ###
 
-#### Entrega do Relatório: 07/12/2020 ###
+* **Entrega do Relatório: 07/12/2020**
 
 O Relatório pode ser feito no wiki do repositório do projeto ou em um editor de texto de preferência do projetista.
 
-#### Relatório: ####
+#### Composição do Relatório: ####
 * Nome do Projeto
 
 * Introdução:
