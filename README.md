@@ -264,6 +264,9 @@ O Relatório pode ser feito no wiki do repositório do projeto ou em um editor d
 * **Embarcados Experience 2020:**
   * [Informações sobre o Evento](https://www.embarcados.com.br/inscricao-embarcados-experience-2020/)
 
+### 30/11/2020 ###
+
+* **Segunda Avaliação da Disciplina**
 
 ## Links Relativos à Disciplina:
 
