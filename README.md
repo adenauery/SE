@@ -12,6 +12,14 @@
 |Wellington Weikamp Porto  |  [Repositório](https://github.com/wellkamp/sistemas_embarcados)| [Projeto](https://github.com/wellkamp/iot_cloud_br/blob/main/README.md) |
 |   |   |   | |
 
+
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
+
 ---
 
 ### Apresentações
