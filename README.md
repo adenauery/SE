@@ -1,7 +1,8 @@
 
 # Sistemas Embarcados
 
-### Equipe
+
+### Primeira Avaliação
 |   |   |   |
 |---|--:|:--|
 | **Nome** |   |  | 
@@ -13,9 +14,11 @@
 |   |   |   | |
 
 
-Aluno               | Segunda Avaliaçãp ||
-:---------          | ------ | ------
-Bruno Lopes Soares        | Relatório  | Apresentação | GitHub
+### Primeira Avaliação
+
+Aluno               |  | |
+:---------          | ------ | ------ | ------
+Bruno Lopes Soares        | Relatório  | Apresentação | [GitHub](https://github.com/PoderosoBR/Site-WEB-esp32)
 Gustavo Ribeiro Iribarrem | Relatório  | Apresentação | GitHub
 Kaller Moraes Gonçalves   | Relatório  | Apresentação | GitHub
 Lucas Kerstner Penning    | Relatório  | Apresentação | GitHub
