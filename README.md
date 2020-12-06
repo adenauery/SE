@@ -16,7 +16,7 @@
 
 ### Primeira Avaliação
 
-Aluno               |  | |
+Aluno               |  Relatório | Apresentação | GitHub
 :---------          | ------ | ------ | ------
 Bruno Lopes Soares        | Relatório  | Apresentação | [GitHub](https://github.com/PoderosoBR/Site-WEB-esp32)
 Gustavo Ribeiro Iribarrem | Relatório  | Apresentação | GitHub
