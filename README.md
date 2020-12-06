@@ -12,12 +12,14 @@
 |Wellington Weikamp Porto  |  [Repositório](https://github.com/wellkamp/sistemas_embarcados)| [Projeto](https://github.com/wellkamp/iot_cloud_br/blob/main/README.md) |
 |   |   |   | |
 
---------- | ------ | ------
-Aluno     | Valor do exemplo | Exemplo 2
-Exemplo 1 | R$ 10  | 55
-Exemplo 2 | R$ 8.  | 44
-Exemplo 3 | R$ 7   | 33
-Exemplo 4 | R$ 8   | 22
+
+Aluno               | Segunda Avaliaçãp ||
+:---------          | ------ | ------
+Bruno Lopes Soares        | Relatório  | Apresentação | GitHub
+Gustavo Ribeiro Iribarrem | Relatório  | Apresentação | GitHub
+Kaller Moraes Gonçalves   | Relatório  | Apresentação | GitHub
+Lucas Kerstner Penning    | Relatório  | Apresentação | GitHub
+Wellington Weikamp Porto  | Relatório  | Apresentação | GitHub
 
 ---
 
