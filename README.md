@@ -18,10 +18,10 @@
 
 Aluno               |  Relatório | GitHub
 :---------          | ------ | ------
-Bruno Lopes Soares        | Relatório | [GitHub](https://github.com/PoderosoBR/Site-WEB-esp32)
-Gustavo Ribeiro Iribarrem | Relatório | [GitHub](https://github.com/lucaspenning/Telegram_OTA)
+Bruno Lopes Soares        | Relatório | [Repositório](https://github.com/PoderosoBR/Site-WEB-esp32)
+Gustavo Ribeiro Iribarrem | Relatório | [GitHub]
 Kaller Moraes Gonçalves   | Relatório | GitHub
-Lucas Kerstner Penning    | Relatório | GitHub
+Lucas Kerstner Penning    | Relatório | [Repositório](https://github.com/lucaspenning/Telegram_OTA)
 Wellington Weikamp Porto  | Relatório | GitHub
 
 ---
