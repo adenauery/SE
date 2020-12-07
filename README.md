@@ -19,7 +19,7 @@
 Aluno               |  Relatório | GitHub
 :---------          | ------ | ------
 Bruno Lopes Soares        | Relatório | [GitHub](https://github.com/PoderosoBR/Site-WEB-esp32)
-Gustavo Ribeiro Iribarrem | Relatório | GitHub
+Gustavo Ribeiro Iribarrem | Relatório | [GitHub](https://github.com/lucaspenning/Telegram_OTA)
 Kaller Moraes Gonçalves   | Relatório | GitHub
 Lucas Kerstner Penning    | Relatório | GitHub
 Wellington Weikamp Porto  | Relatório | GitHub
