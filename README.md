@@ -20,7 +20,7 @@ Aluno               |  Relatório | GitHub
 :---------          | ------ | ------
 Bruno Lopes Soares        | [Relatório](https://github.com/adenauery/SE/blob/master/Bruno-Lopes-Soares-Relatorio-Projeto.pdf) | [Repositório](https://github.com/PoderosoBR/Site-WEB-esp32)
 Gustavo Ribeiro Iribarrem | Relatório | [GitHub]
-Kaller Moraes Gonçalves   | Relatório | GitHub
+Kaller Moraes Gonçalves   | Relatório | [Repositório](https://github.com/KallerMG/Iot_jardim/wiki)
 Lucas Kerstner Penning    | [Relatório](https://github.com/adenauery/SE/blob/master/Lucas-Kerstner-Penning-Relatorio-Projeto.pdf) | [Repositório](https://github.com/lucaspenning/Telegram_OTA)
 Wellington Weikamp Porto  | Relatório | GitHub
 
