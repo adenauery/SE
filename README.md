@@ -16,13 +16,13 @@
 
 ### Segunda Avaliação
 
-Aluno               |  Relatório | Apresentação | GitHub
+Aluno               |  Relatório | GitHub
 :---------          | ------ | ------ | ------
-Bruno Lopes Soares        | Relatório  | Apresentação | [GitHub](https://github.com/PoderosoBR/Site-WEB-esp32)
-Gustavo Ribeiro Iribarrem | Relatório  | Apresentação | GitHub
-Kaller Moraes Gonçalves   | Relatório  | Apresentação | GitHub
-Lucas Kerstner Penning    | Relatório  | Apresentação | GitHub
-Wellington Weikamp Porto  | Relatório  | Apresentação | GitHub
+Bruno Lopes Soares        | Relatório | [GitHub](https://github.com/PoderosoBR/Site-WEB-esp32)
+Gustavo Ribeiro Iribarrem | Relatório | GitHub
+Kaller Moraes Gonçalves   | Relatório | GitHub
+Lucas Kerstner Penning    | Relatório | GitHub
+Wellington Weikamp Porto  | Relatório | GitHub
 
 ---
 
