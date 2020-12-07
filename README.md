@@ -17,7 +17,7 @@
 ### Segunda Avaliação
 
 Aluno               |  Relatório | GitHub
-:---------          | ------ | ------ | ------
+:---------          | ------ | ------
 Bruno Lopes Soares        | Relatório | [GitHub](https://github.com/PoderosoBR/Site-WEB-esp32)
 Gustavo Ribeiro Iribarrem | Relatório | GitHub
 Kaller Moraes Gonçalves   | Relatório | GitHub
