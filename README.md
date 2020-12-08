@@ -4,10 +4,10 @@
 
 ### Primeira Avaliação
 Aluno | Protocolo Apresentado
-:--------- | ------ 
+:--------- | :------: 
 Bruno Lopes Soares  | [COAP](https://github.com/adenauery/SE/blob/master/Bruno-Lopes-Soares-COAP.pdf)
 Gustavo Ribeiro Iribarrem | [Rest & Restful](https://github.com/adenauery/SE/blob/master/Gustavo-Ribeiro-Iribarrem-REST-RESTful.pdf)
-Kaller Moraes Gonçalves | []()
+Kaller Moraes Gonçalves | [LoRaWAN](https://github.com/adenauery/SE/blob/master/Kaller-Moraes-Goncalves-LoRaWAN.pdf)
 Lucas Kerstner Penning | []()
 Wellington Weikamp Porto  | []()
 
