@@ -6,7 +6,7 @@
 Aluno | Protocolo Apresentado
 :--------- | ------ 
 Bruno Lopes Soares  | [COAP](https://github.com/adenauery/SE/blob/master/Bruno-Lopes-Soares-COAP.pdf)
-Gustavo Ribeiro Iribarrem | []()
+Gustavo Ribeiro Iribarrem | [Rest & Restful](https://github.com/adenauery/SE/blob/master/Gustavo-Ribeiro-Iribarrem-REST-RESTful.pdf)
 Kaller Moraes Gonçalves | []()
 Lucas Kerstner Penning | []()
 Wellington Weikamp Porto  | []()
