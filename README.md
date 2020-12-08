@@ -18,10 +18,10 @@ Wellington Weikamp Porto  | [SIGFOX](https://github.com/adenauery/SE/blob/master
 Aluno               |  Relatório | GitHub
 :---------          | ------ | ------
 Bruno Lopes Soares        | [Relatório](https://github.com/adenauery/SE/blob/master/Bruno-Lopes-Soares-Relatorio-Projeto.pdf) | [Repositório](https://github.com/PoderosoBR/Site-WEB-esp32)
-Gustavo Ribeiro Iribarrem | Relatório | [GitHub]
+Gustavo Ribeiro Iribarrem | Relatório | [Repositório](https://github.com/iribarrem/SE/wiki)
 Kaller Moraes Gonçalves   | [Relatório](https://github.com/adenauery/SE/blob/master/Kaller-Moraes-Goncalves-Relatorio-Projeto.pdf) | [Repositório](https://github.com/KallerMG/Iot_jardim)
 Lucas Kerstner Penning    | [Relatório](https://github.com/adenauery/SE/blob/master/Lucas-Kerstner-Penning-Relatorio-Projeto.pdf) | [Repositório](https://github.com/lucaspenning/Telegram_OTA)
-Wellington Weikamp Porto  | Relatório | GitHub
+Wellington Weikamp Porto  | Relatório | [Repositório](https://meet.google.com/linkredirect?authuser=1&dest=https%3A%2F%2Fgithub.com%2Fwellkamp%2Fiot_cloud_br)
 
 ---
 
