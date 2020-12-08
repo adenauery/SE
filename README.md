@@ -23,7 +23,7 @@ Gustavo Ribeiro Iribarrem | Relatório | [GitHub]
 Kaller Moraes Gonçalves   | [Relatório](https://github.com/adenauery/SE/blob/master/Kaller-Moraes-Goncalves-Relatorio-Projeto.pdf) | [Repositório](https://github.com/KallerMG/Iot_jardim)
 Lucas Kerstner Penning    | [Relatório](https://github.com/adenauery/SE/blob/master/Lucas-Kerstner-Penning-Relatorio-Projeto.pdf) | [Repositório](https://github.com/lucaspenning/Telegram_OTA)
 Wellington Weikamp Porto  | Relatório | GitHub
-https://github.com/adenauery/SE/blob/master/Kaller-Moraes-Goncalves-Relatorio-Projeto.pdf
+
 ---
 
 ### Apresentações
