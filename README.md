@@ -272,6 +272,8 @@ O Relatório pode ser feito no wiki do repositório do projeto ou em um editor d
   * [Microservices.io](https://microservices.io/)
   * [Microserviços pela RedHat](https://www.redhat.com/pt-br/topics/microservices)
   * [Livros sobre Microserviços](https://blog.andrefaria.com/melhores-livros-sobre-microservices-microservicos)
+  * [Geek Blog - O que são microsserviços e como funcionam?](https://blog.geekhunter.com.br/arquitetura-de-microsservicos-x-arquitetura-monolitica/)
+
 * **Embarcados Experience 2020:**
   * [Informações sobre o Evento](https://www.embarcados.com.br/inscricao-embarcados-experience-2020/)
 
